@@ -12,5 +12,5 @@ Learning Python step by step — from basics to projects.
 ## 🎯 Goal
 Master Python for Data Science and GKS Scholarship (Yonsei University, 2027).
 
-## 👩‍💻 Author
+## 👩‍💻 Author Gavharoy
 [@gavharoy02209-dev](https://github.com/gavharoy02209-dev)
